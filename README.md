@@ -135,19 +135,22 @@ lab practice and real-world simulations.
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://skillicons.dev/icons?i=python,pytorch,huggingface" height="45" /><br><br>
+    <td align="center" width="50%" style="padding: 20px;">
       <a href="https://github.com/El-SayedMohammed/Adaptive-Programming-Tutor"><b>🎓 Adaptive Programming Tutor</b></a><br>
       <sub>Fine-tuned LLM (Qwen2.5 + LoRA) that gives Socratic debugging hints</sub><br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="22"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="22"/>
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="22"/>
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" height="22"/>
       <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square" height="22"/>
       <img src="https://img.shields.io/badge/Unsloth-FF6B00?style=flat-square" height="22"/>
       <img src="https://img.shields.io/badge/Gradio-FF7C00?style=flat-square" height="22"/>
     </td>
-    <td align="center" width="50%">
-      <img src="https://skillicons.dev/icons?i=react,js,html,css" height="45" /><br><br>
+    <td align="center" width="50%" style="padding: 20px;">
       <a href="https://github.com/El-SayedMohammed/Bridge-X-Graduation-Project"><b>🌉 Bridge X — Graduation Project</b></a><br>
       <sub>Platform connecting companies with developers via real projects</sub><br><br>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="22"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="22"/>
       <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square" height="22"/>
       <img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens" height="22"/>
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel" height="22"/><br><br>
@@ -155,35 +158,39 @@ lab practice and real-world simulations.
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,js,vite" height="45" /><br><br>
+    <td align="center" style="padding: 20px;">
       <a href="https://github.com/El-SayedMohammed/Portfolio-Genie-DEPI-Project"><b>🧞 PortfolioGenie</b></a><br>
       <sub>Builds a professional portfolio from GitHub data in 5 minutes</sub><br><br>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="22"/>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" height="22"/>
       <img src="https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer" height="22"/>
       <img src="https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github" height="22"/>
       <img src="https://img.shields.io/badge/LocalStorage-FFCA28?style=flat-square" height="22"/><br><br>
       <a href="https://portfolio-liart-eta-59.vercel.app"><img src="https://img.shields.io/badge/🔗_Live_Demo-2ECC71?style=for-the-badge" height="28"/></a>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,pytorch,huggingface" height="45" /><br><br>
+    <td align="center" style="padding: 20px;">
       <a href="https://github.com/El-SayedMohammed/Student-Resume-Analyzer"><b>📄 Student Resume Analyzer</b></a><br>
       <sub>Local-LLM resume evaluator with actionable feedback</sub><br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="22"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="22"/>
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="22"/>
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="22"/>
       <img src="https://img.shields.io/badge/PyPDF2-3776AB?style=flat-square" height="22"/>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python" height="45" /><br><br>
+    <td align="center" style="padding: 20px;">
       <a href="https://github.com/El-SayedMohammed/Ping-Pong-Game"><b>🏓 Ping Pong Game</b></a><br>
       <sub>Pygame game with an A* search AI opponent</sub><br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="22"/>
       <img src="https://img.shields.io/badge/Pygame-121212?style=flat-square" height="22"/>
       <img src="https://img.shields.io/badge/A*_Algorithm-3776AB?style=flat-square" height="22"/>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,linux" height="45" /><br><br>
+    <td align="center" style="padding: 20px;">
       <a href="https://github.com/El-SayedMohammed/ROS-Obstacle-Avoidance-Robot"><b>🦾 ROS Obstacle Avoidance Robot</b></a><br>
       <sub>ROS + Gazebo obstacle-avoidance simulation</sub><br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="22"/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height="22"/>
       <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" height="22"/>
       <img src="https://img.shields.io/badge/Gazebo-FF6600?style=flat-square" height="22"/>
       <img src="https://img.shields.io/badge/URDF-blue?style=flat-square" height="22"/>
