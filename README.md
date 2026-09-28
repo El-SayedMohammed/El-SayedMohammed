@@ -196,20 +196,17 @@ lab practice and real-world simulations.
     <td align="center" width="140">
       <a href="https://www.linkedin.com/in/elsayed-mohamed-dev">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" />
-      </a><br><sub><b>LinkedIn</b></sub><br>
-      <sub><a href="https://www.linkedin.com/in/elsayed-mohamed-dev">elsayed-mohamed-dev</a></sub>
+      </a><br><sub><b>LinkedIn</b></sub>
     </td>
     <td align="center" width="140">
       <a href="mailto:elsayedmohamed01065813602@gmail.com">
         <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" />
-      </a><br><sub><b>Email</b></sub><br>
-      <sub>elsayedmohamed01065813602@gmail.com</sub>
+      </a><br><sub><b>Email</b></sub>
     </td>
     <td align="center" width="140">
       <a href="https://www.facebook.com/share/1DeqWgWD2r/">
         <img src="https://cdn.simpleicons.org/facebook/1877F2" width="45" height="45" />
-      </a><br><sub><b>Facebook</b></sub><br>
-      <sub>Elsayed Mohamed</sub>
+      </a><br><sub><b>Facebook</b></sub>
     </td>
   </tr>
 </table>
