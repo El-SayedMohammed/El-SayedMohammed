@@ -70,26 +70,27 @@ lab practice and real-world simulations.
 <div align="center">
 <table> 
   <tr>
-    <td align="center" width="110"><img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="50" /><br><sub><b>CCNA</b></sub></td>
-    <td align="center" width="110"><img src="https://img.shields.io/badge/CCNP-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="50" /><br><sub><b>CCNP</b></sub></td>
-    <td align="center" width="110"><img src="https://img.shields.io/badge/BGP-0F4C81?style=for-the-badge" height="50" /><br><sub><b>BGP</b></sub></td>
-    <td align="center" width="110"><img src="https://img.shields.io/badge/MPLS-0F4C81?style=for-the-badge" height="50" /><br><sub><b>MPLS</b></sub></td>
-    <td align="center" width="110"><img src="https://img.shields.io/badge/OSPF-1B6CA8?style=for-the-badge" height="50" /><br><sub><b>OSPF</b></sub></td>
-    <td align="center" width="110"><img src="https://img.shields.io/badge/VLANs-1B6CA8?style=for-the-badge" height="50" /><br><sub><b>VLANs</b></sub></td>
+    <td align="center" width="100"><img src="https://img.shields.io/badge/CCNA-0d1117?style=for-the-badge&logo=cisco&logoColor=00BCEB" height="45" /><br><sub><b>CCNA</b></sub></td>
+    <td align="center" width="100"><img src="https://img.shields.io/badge/CCNP-0d1117?style=for-the-badge&logo=cisco&logoColor=00BCEB" height="45" /><br><sub><b>CCNP</b></sub></td>
+    <td align="center" width="100"><img src="https://img.shields.io/badge/BGP-0d1117?style=for-the-badge&logoColor=6A5ACD" height="45" /><br><sub><b>BGP</b></sub></td>
+    <td align="center" width="100"><img src="https://img.shields.io/badge/MPLS-0d1117?style=for-the-badge&logoColor=6A5ACD" height="45" /><br><sub><b>MPLS</b></sub></td>
+    <td align="center" width="100"><img src="https://img.shields.io/badge/OSPF-0d1117?style=for-the-badge&logoColor=9370DB" height="45" /><br><sub><b>OSPF</b></sub></td>
+    <td align="center" width="100"><img src="https://img.shields.io/badge/VLANs-0d1117?style=for-the-badge&logoColor=2ECC71" height="45" /><br><sub><b>VLANs</b></sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/STP-2E86AB?style=for-the-badge" height="50" /><br><sub><b>STP</b></sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/fortinet/EE3124" width="50" height="50" /><br><sub><b>FortiGate</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" /><br><sub><b>Windows Server</b></sub></td>
-    <td align="center"><img src="https://img.shields.io/badge/MCSA-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="50" /><br><sub><b>MCSA</b></sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/vmware/607078" width="50" height="50" /><br><sub><b>VMware ESXi</b></sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/vmware/607078" width="50" height="50" /><br><sub><b>vSphere</b></sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/STP-0d1117?style=for-the-badge&logoColor=2ECC71" height="45" /><br><sub><b>STP</b></sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/FW-0d1117?style=for-the-badge&logoColor=FF6B35" height="45" /><br><sub><b>Firewall Admin</b></sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=fortinet&logoColor=EE3124" height="45" /><br><sub><b>FortiGate</b></sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=windows&logoColor=0078D4" height="45" /><br><sub><b>Windows Server</b></sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/MCSA-0d1117?style=for-the-badge&logoColor=0078D4" height="45" /><br><sub><b>MCSA</b></sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/ESXi-0d1117?style=for-the-badge&logoColor=607078" height="45" /><br><sub><b>VMware ESXi</b></sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50" /><br><sub><b>Azure</b></sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="50" height="50" /><br><sub><b>Packet Tracer</b></sub></td>
-    <td align="center"><img src="https://img.shields.io/badge/GNS3-2E86AB?style=for-the-badge" height="50" /><br><sub><b>GNS3</b></sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/wireshark/1679A7" width="50" height="50" /><br><sub><b>Wireshark</b></sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/vS-0d1117?style=for-the-badge&logoColor=607078" height="45" /><br><sub><b>vSphere</b></sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=0089D6" height="45" /><br><sub><b>Azure</b></sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7" height="45" /><br><sub><b>Packet Tracer</b></sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/GNS3-0d1117?style=for-the-badge&logoColor=F5A623" height="45" /><br><sub><b>GNS3</b></sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7" height="45" /><br><sub><b>Wireshark</b></sub></td>
     <td align="center" colspan="2"></td>
   </tr>
 </table>
