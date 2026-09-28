@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Elsayed Mohamed 👋</h1>
-<h3 align="center">Junior Network Engineer 🌐 | Trainee @ Instant Software Solutions 🎓 | Mansoura, Egypt 📍</h3>
+<h3 align="center">🌐 Network Engineer | Trainee @ Instant Software Solutions | CCNA | CCNP | Firewall (Fortigate) | VMware | Azure | MCSA</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/elsayed-mohamed-dev"><img src="https://img.shields.io/badge/Elsayed%20Mohamed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -10,30 +10,28 @@
 
 ## 🚀 About Me
 
-I'm building my career in network engineering through an intensive, hands-on
-Advanced Networking Diploma at Instant Software Solutions, covering enterprise
-routing & switching, firewall administration, virtualization, and cloud.
+I'm a Network Engineer with intensive, hands-on enterprise infrastructure
+training through an Advanced Networking Diploma at Instant Software Solutions.
 
-I practice designing, configuring, and troubleshooting network environments
-through lab work and simulations, and I'm looking for a junior role where I can
-apply these skills and keep growing.
-
-```yaml
-name: Elsayed Mohamed
-role: Junior Network Engineer (Trainee)
-education: Advanced Networking Diploma @ Instant Software Solutions
-university: Computer Science, Faculty of Computers & Information, Mansoura University
-looking_for: [Junior Network Engineer, NOC Engineer, Network Administrator, IT Support]
-```
+I specialize in designing, configuring, and troubleshooting robust network
+environments, systems administration, and cloud integration through rigorous
+lab practice and real-world simulations.
 
 ---
 
-## 🔥 Highlights
+## 🔧 Core Competencies & Technical Skills
 
-- 🎓 Advanced Networking Diploma covering **CCNA, CCNP, Firewall (FortiGate), VMware, Azure, MCSA**
-- 🧪 Hands-on labs with **Packet Tracer** and **GNS3**
-- 💻 Development background: React, Python, AI/ML projects (see pinned repos)
-- 🤝 Team Lead on a DEPI graduation project
+**Routing & Switching:** CCNA & CCNP Enterprise tracks (BGP, MPLS, OSPF, VLANs, STP)
+
+**Network Security:** Firewall Administration (FortiGate)
+
+**Systems & Virtualization:** Windows Server (MCSA), VMware ESXi/vSphere
+
+**Cloud Infrastructure:** Microsoft Azure
+
+**Version Control & Documentation:** Git, GitHub
+
+**Troubleshooting & Tools:** Packet Tracer, GNS3, Wireshark
 
 ---
 
@@ -41,22 +39,6 @@ looking_for: [Junior Network Engineer, NOC Engineer, Network Administrator, IT S
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,python,react,js,vscode,linux,bash" />
-</p>
-
-**Routing & Switching:** CCNA & CCNP Enterprise tracks (BGP, MPLS, OSPF, VLANs, STP)
-**Network Security:** Firewall Administration (FortiGate)
-**Systems & Virtualization:** Windows Server (MCSA), VMware ESXi/vSphere
-**Cloud:** Microsoft Azure
-**Lab Tools:** Packet Tracer, GNS3
-**Version Control:** Git, GitHub
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=El-SayedMohammed&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=El-SayedMohammed&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 </p>
 
 ---
@@ -72,6 +54,22 @@ looking_for: [Junior Network Engineer, NOC Engineer, Network Administrator, IT S
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=El-SayedMohammed&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=El-SayedMohammed&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+</p>
+
+---
+
+## 📫 Reach Me
+
+- LinkedIn: [www.linkedin.com/in/elsayed-mohamed-dev](https://www.linkedin.com/in/elsayed-mohamed-dev)
+- Email: elsayedmohamed01065813602@gmail.com
+
+---
+
 ## ⚡️ Motto
 
-> **"Building secure, reliable networks, one lab at a time."**
+> **"Passionate about building secure, reliable network infrastructures."**
