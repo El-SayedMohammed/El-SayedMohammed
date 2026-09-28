@@ -70,27 +70,26 @@ lab practice and real-world simulations.
 <div align="center">
 <table> 
   <tr>
-    <td align="center" width="100"><img src="https://img.shields.io/badge/CCNA-0d1117?style=for-the-badge&logo=cisco&logoColor=00BCEB" height="45" /><br><sub><b>CCNA</b></sub></td>
-    <td align="center" width="100"><img src="https://img.shields.io/badge/CCNP-0d1117?style=for-the-badge&logo=cisco&logoColor=00BCEB" height="45" /><br><sub><b>CCNP</b></sub></td>
-    <td align="center" width="100"><img src="https://img.shields.io/badge/BGP-0d1117?style=for-the-badge&logoColor=6A5ACD" height="45" /><br><sub><b>BGP</b></sub></td>
-    <td align="center" width="100"><img src="https://img.shields.io/badge/MPLS-0d1117?style=for-the-badge&logoColor=6A5ACD" height="45" /><br><sub><b>MPLS</b></sub></td>
-    <td align="center" width="100"><img src="https://img.shields.io/badge/OSPF-0d1117?style=for-the-badge&logoColor=9370DB" height="45" /><br><sub><b>OSPF</b></sub></td>
-    <td align="center" width="100"><img src="https://img.shields.io/badge/VLANs-0d1117?style=for-the-badge&logoColor=2ECC71" height="45" /><br><sub><b>VLANs</b></sub></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="50" /><br><sub><b>CCNA</b></sub></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/CCNP-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="50" /><br><sub><b>CCNP</b></sub></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/BGP-0F4C81?style=for-the-badge" height="50" /><br><sub><b>BGP</b></sub></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/MPLS-0F4C81?style=for-the-badge" height="50" /><br><sub><b>MPLS</b></sub></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/OSPF-1B6CA8?style=for-the-badge" height="50" /><br><sub><b>OSPF</b></sub></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/VLANs-1B6CA8?style=for-the-badge" height="50" /><br><sub><b>VLANs</b></sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/STP-0d1117?style=for-the-badge&logoColor=2ECC71" height="45" /><br><sub><b>STP</b></sub></td>
-    <td align="center"><img src="https://img.shields.io/badge/FW-0d1117?style=for-the-badge&logoColor=FF6B35" height="45" /><br><sub><b>Firewall Admin</b></sub></td>
-    <td align="center"><img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=fortinet&logoColor=EE3124" height="45" /><br><sub><b>FortiGate</b></sub></td>
-    <td align="center"><img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=windows&logoColor=0078D4" height="45" /><br><sub><b>Windows Server</b></sub></td>
-    <td align="center"><img src="https://img.shields.io/badge/MCSA-0d1117?style=for-the-badge&logoColor=0078D4" height="45" /><br><sub><b>MCSA</b></sub></td>
-    <td align="center"><img src="https://img.shields.io/badge/ESXi-0d1117?style=for-the-badge&logoColor=607078" height="45" /><br><sub><b>VMware ESXi</b></sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/STP-2E86AB?style=for-the-badge" height="50" /><br><sub><b>STP</b></sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/fortinet/EE3124" width="50" height="50" /><br><sub><b>FortiGate</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" /><br><sub><b>Windows Server</b></sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/MCSA-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="50" /><br><sub><b>MCSA</b></sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/vmware/607078" width="50" height="50" /><br><sub><b>VMware ESXi</b></sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/vmware/607078" width="50" height="50" /><br><sub><b>vSphere</b></sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/vS-0d1117?style=for-the-badge&logoColor=607078" height="45" /><br><sub><b>vSphere</b></sub></td>
-    <td align="center"><img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=0089D6" height="45" /><br><sub><b>Azure</b></sub></td>
-    <td align="center"><img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7" height="45" /><br><sub><b>Packet Tracer</b></sub></td>
-    <td align="center"><img src="https://img.shields.io/badge/GNS3-0d1117?style=for-the-badge&logoColor=F5A623" height="45" /><br><sub><b>GNS3</b></sub></td>
-    <td align="center"><img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7" height="45" /><br><sub><b>Wireshark</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50" /><br><sub><b>Azure</b></sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="50" height="50" /><br><sub><b>Packet Tracer</b></sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/GNS3-2E86AB?style=for-the-badge" height="50" /><br><sub><b>GNS3</b></sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/wireshark/1679A7" width="50" height="50" /><br><sub><b>Wireshark</b></sub></td>
     <td align="center" colspan="2"></td>
   </tr>
 </table>
@@ -139,40 +138,57 @@ lab practice and real-world simulations.
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://skillicons.dev/icons?i=python,pytorch" height="45" /><br><br>
+      <img src="https://skillicons.dev/icons?i=python,pytorch,huggingface" height="45" /><br><br>
       <a href="https://github.com/El-SayedMohammed/Adaptive-Programming-Tutor"><b>🎓 Adaptive Programming Tutor</b></a><br>
-      <sub>Fine-tuned LLM (Qwen2.5 + LoRA) that gives Socratic debugging hints</sub>
+      <sub>Fine-tuned LLM (Qwen2.5 + LoRA) that gives Socratic debugging hints</sub><br><br>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" height="22"/>
+      <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square" height="22"/>
+      <img src="https://img.shields.io/badge/Unsloth-FF6B00?style=flat-square" height="22"/>
+      <img src="https://img.shields.io/badge/Gradio-FF7C00?style=flat-square" height="22"/>
     </td>
     <td align="center" width="50%">
       <img src="https://skillicons.dev/icons?i=react,js,html,css" height="45" /><br><br>
       <a href="https://github.com/El-SayedMohammed/Bridge-X-Graduation-Project"><b>🌉 Bridge X — Graduation Project</b></a><br>
-      <sub>Platform connecting companies with developers via real projects</sub><br>
-      <a href="https://bridge-x-eight.vercel.app">🔗 Live Demo</a>
+      <sub>Platform connecting companies with developers via real projects</sub><br><br>
+      <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square" height="22"/>
+      <img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens" height="22"/>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel" height="22"/><br><br>
+      <a href="https://bridge-x-eight.vercel.app"><img src="https://img.shields.io/badge/🔗_Live_Demo-2ECC71?style=for-the-badge" height="28"/></a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=react,js,vite" height="45" /><br><br>
       <a href="https://github.com/El-SayedMohammed/Portfolio-Genie-DEPI-Project"><b>🧞 PortfolioGenie</b></a><br>
-      <sub>Builds a professional portfolio from GitHub data in 5 minutes</sub><br>
-      <a href="https://portfolio-liart-eta-59.vercel.app">🔗 Live Demo</a>
+      <sub>Builds a professional portfolio from GitHub data in 5 minutes</sub><br><br>
+      <img src="https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer" height="22"/>
+      <img src="https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github" height="22"/>
+      <img src="https://img.shields.io/badge/LocalStorage-FFCA28?style=flat-square" height="22"/><br><br>
+      <a href="https://portfolio-liart-eta-59.vercel.app"><img src="https://img.shields.io/badge/🔗_Live_Demo-2ECC71?style=for-the-badge" height="28"/></a>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,pytorch" height="45" /><br><br>
+      <img src="https://skillicons.dev/icons?i=python,pytorch,huggingface" height="45" /><br><br>
       <a href="https://github.com/El-SayedMohammed/Student-Resume-Analyzer"><b>📄 Student Resume Analyzer</b></a><br>
-      <sub>Local-LLM resume evaluator with actionable feedback</sub>
+      <sub>Local-LLM resume evaluator with actionable feedback</sub><br><br>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="22"/>
+      <img src="https://img.shields.io/badge/PyPDF2-3776AB?style=flat-square" height="22"/>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=python" height="45" /><br><br>
       <a href="https://github.com/El-SayedMohammed/Ping-Pong-Game"><b>🏓 Ping Pong Game</b></a><br>
-      <sub>Pygame game with an A* search AI opponent</sub>
+      <sub>Pygame game with an A* search AI opponent</sub><br><br>
+      <img src="https://img.shields.io/badge/Pygame-121212?style=flat-square" height="22"/>
+      <img src="https://img.shields.io/badge/A*_Algorithm-3776AB?style=flat-square" height="22"/>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=python,linux" height="45" /><br><br>
       <a href="https://github.com/El-SayedMohammed/ROS-Obstacle-Avoidance-Robot"><b>🦾 ROS Obstacle Avoidance Robot</b></a><br>
-      <sub>ROS + Gazebo obstacle-avoidance simulation</sub>
+      <sub>ROS + Gazebo obstacle-avoidance simulation</sub><br><br>
+      <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" height="22"/>
+      <img src="https://img.shields.io/badge/Gazebo-FF6600?style=flat-square" height="22"/>
+      <img src="https://img.shields.io/badge/URDF-blue?style=flat-square" height="22"/>
     </td>
   </tr>
 </table>
