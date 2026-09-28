@@ -55,9 +55,34 @@ lab practice and real-world simulations.
 
 ### 🌐 Networking & Infrastructure
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/El-SayedMohammed/El-SayedMohammed/main/network-skills.svg" alt="Network Engineering Toolkit" width="100%" />
-</p>
+<div align="center">
+<table> 
+  <tr>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="50" /><br><sub><b>CCNA</b></sub></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/CCNP-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="50" /><br><sub><b>CCNP</b></sub></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/BGP-6A5ACD?style=for-the-badge" height="50" /><br><sub><b>BGP</b></sub></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/MPLS-6A5ACD?style=for-the-badge" height="50" /><br><sub><b>MPLS</b></sub></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/OSPF-9370DB?style=for-the-badge" height="50" /><br><sub><b>OSPF</b></sub></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/VLANs-2E8B57?style=for-the-badge" height="50" /><br><sub><b>VLANs</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/STP-2E8B57?style=for-the-badge" height="50" /><br><sub><b>STP</b></sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/fortinet/EE3124" width="50" height="50" /><br><sub><b>FortiGate</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" /><br><sub><b>Windows Server</b></sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/MCSA-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="50" /><br><sub><b>MCSA</b></sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/vmware/607078" width="50" height="50" /><br><sub><b>VMware ESXi</b></sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/vmware/607078" width="50" height="50" /><br><sub><b>vSphere</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50" /><br><sub><b>Azure</b></sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="50" height="50" /><br><sub><b>Packet Tracer</b></sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/GNS3-F5A623?style=for-the-badge" height="50" /><br><sub><b>GNS3</b></sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/wireshark/1679A7" width="50" height="50" /><br><sub><b>Wireshark</b></sub></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+</table>
+</div>
 
 ### 💻 Development
 
