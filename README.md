@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Elsayed%20Mohamed&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Network%20Engineer%20%7C%20Infrastructure%20%7C%20Security%20%7C%20Cloud&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Elsayed+Mohamed+%F0%9F%91%8B;Network+Engineer+%7C+Trainee+%40+Instant+Software+Solutions;CCNA+%7C+CCNP+%7C+Firewall+%7C+VMware+%7C+Azure+%7C+MCSA;Building+secure%2C+reliable+network+infrastructures" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=850&height=45&lines=Hi%2C+I'm+Elsayed+Mohamed+%F0%9F%91%8B;Network+Engineer+%7C+Trainee+%40+Instant+Software+Solutions;CCNA+%7C+CCNP+%7C+Firewall+%7C+VMware+%7C+Azure+%7C+MCSA;Building+secure%2C+reliable+network+infrastructures" alt="Typing SVG" />
 </a>
 
 ### 🌐 Network Engineer | Trainee @ Instant Software Solutions | CCNA | CCNP | Firewall (Fortigate) | VMware | Azure | MCSA
@@ -46,16 +46,34 @@ lab practice and real-world simulations.
 
 ## 🧰 Tech Toolbox
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="55" height="55" alt="Cisco" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/fortinet/EE3124" width="55" height="55" alt="Fortinet" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/vmware/607078" width="55" height="55" alt="VMware" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="55" height="55" alt="Wireshark" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,windows,linux,bash,git,github,python,react,js,vscode&perline=10" alt="Tools" />
-</p>
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="50" height="50" /><br><sub><b>Cisco</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/fortinet/EE3124" width="50" height="50" /><br><sub><b>FortiGate</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/vmware/607078" width="50" height="50" /><br><sub><b>VMware</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50" /><br><sub><b>Azure</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" /><br><sub><b>Windows Server</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/wireshark/1679A7" width="50" height="50" /><br><sub><b>Wireshark</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="28" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/GNS3-0A0A0A?style=for-the-badge&logo=gnometerminal&logoColor=white" height="28" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" /><br><sub><b>Linux</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" /><br><sub><b>Bash</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" /><br><sub><b>Git</b></sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/github/white" width="50" height="50" /><br><sub><b>GitHub</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" /><br><sub><b>Python</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" /><br><sub><b>React</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" /><br><sub><b>JavaScript</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" /><br><sub><b>VS Code</b></sub></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+</table>
+</div>
 
 ---
 
