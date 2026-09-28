@@ -47,34 +47,58 @@ lab practice and real-world simulations.
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="55" height="55" alt="Cisco" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/fortinet/EE3124" width="55" height="55" alt="Fortinet" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/vmware/607078" width="55" height="55" alt="VMware" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="55" height="55" alt="Wireshark" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,python,react,js,vscode,linux,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=azure,windows,linux,bash,git,github,python,react,js,vscode&perline=10" alt="Tools" />
 </p>
 
 ---
 
 ## 🛠️ Featured Projects
 
-<p align="center">
-  <a href="https://github.com/El-SayedMohammed/Adaptive-Programming-Tutor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=El-SayedMohammed&repo=Adaptive-Programming-Tutor&theme=tokyonight&hide_border=true" width="48%" /></a>
-  <a href="https://github.com/El-SayedMohammed/Bridge-X-Graduation-Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=El-SayedMohammed&repo=Bridge-X-Graduation-Project&theme=tokyonight&hide_border=true" width="48%" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/El-SayedMohammed/Portfolio-Genie-DEPI-Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=El-SayedMohammed&repo=Portfolio-Genie-DEPI-Project&theme=tokyonight&hide_border=true" width="48%" /></a>
-  <a href="https://github.com/El-SayedMohammed/Student-Resume-Analyzer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=El-SayedMohammed&repo=Student-Resume-Analyzer&theme=tokyonight&hide_border=true" width="48%" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/El-SayedMohammed/Ping-Pong-Game-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=El-SayedMohammed&repo=Ping-Pong-Game-&theme=tokyonight&hide_border=true" width="48%" /></a>
-  <a href="https://github.com/El-SayedMohammed/Robot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=El-SayedMohammed&repo=Robot&theme=tokyonight&hide_border=true" width="48%" /></a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://skillicons.dev/icons?i=python" width="45" /><br>
+      <a href="https://github.com/El-SayedMohammed/Adaptive-Programming-Tutor"><b>🎓 Adaptive-Programming-Tutor</b></a><br>
+      <sub>Fine-tuned LLM (Qwen2.5 + LoRA) that gives Socratic debugging hints</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://skillicons.dev/icons?i=react,js" width="90" /><br>
+      <a href="https://github.com/El-SayedMohammed/Bridge-X-Graduation-Project"><b>🌉 Bridge-X-Graduation-Project</b></a><br>
+      <sub>Platform connecting companies with developers via real projects</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,js" width="90" /><br>
+      <a href="https://github.com/El-SayedMohammed/Portfolio-Genie-DEPI-Project"><b>🧞 Portfolio-Genie-DEPI-Project</b></a><br>
+      <sub>Builds a professional portfolio from GitHub data in 5 minutes</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="45" /><br>
+      <a href="https://github.com/El-SayedMohammed/Student-Resume-Analyzer"><b>📄 Student-Resume-Analyzer</b></a><br>
+      <sub>Local-LLM resume evaluator with actionable feedback</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="45" /><br>
+      <a href="https://github.com/El-SayedMohammed/Ping-Pong-Game"><b>🏓 Ping-Pong-Game</b></a><br>
+      <sub>Pygame game with an A* search AI opponent</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,linux" width="90" /><br>
+      <a href="https://github.com/El-SayedMohammed/Robot"><b>🦾 Robot</b></a><br>
+      <sub>ROS + Gazebo obstacle-avoidance simulation</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
