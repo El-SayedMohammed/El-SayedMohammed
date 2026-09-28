@@ -139,47 +139,68 @@ lab practice and real-world simulations.
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="50%" style="padding: 24px 15px;">
-      <img src="https://skillicons.dev/icons?i=python,pytorch" height="45" /><br><br>
-      <a href="https://github.com/El-SayedMohammed/Adaptive-Programming-Tutor"><b>🎓 Adaptive Programming Tutor</b></a><br><br>
+    <td align="center" width="50%" style="padding: 24px 18px;">
+      <a href="https://github.com/El-SayedMohammed/Adaptive-Programming-Tutor"><h3>🎓 Adaptive Programming Tutor</h3></a>
       <sub>Fine-tuned LLM (Qwen2.5 + LoRA) providing Socratic debugging hints</sub><br><br>
-      <code>Python</code> <code>PyTorch</code> <code>HuggingFace</code> <code>LangChain</code> <code>Gradio</code>
+      <img src="https://img.shields.io/badge/Python-203a43?style=flat-square&logo=python&logoColor=00D4FF" height="22"/>
+      <img src="https://img.shields.io/badge/PyTorch-203a43?style=flat-square&logo=pytorch&logoColor=00D4FF" height="22"/>
+      <img src="https://img.shields.io/badge/Hugging_Face-203a43?style=flat-square&logo=huggingface&logoColor=00D4FF" height="22"/>
+      <img src="https://img.shields.io/badge/LangChain-203a43?style=flat-square&logo=chainlink&logoColor=00D4FF" height="22"/>
+      <img src="https://img.shields.io/badge/Groq_API-203a43?style=flat-square&logoColor=00D4FF" height="22"/>
+      <img src="https://img.shields.io/badge/Unsloth-203a43?style=flat-square&logoColor=00D4FF" height="22"/>
+      <img src="https://img.shields.io/badge/Gradio-203a43?style=flat-square&logo=gradio&logoColor=00D4FF" height="22"/>
     </td>
-    <td align="center" width="50%" style="padding: 24px 15px;">
-      <img src="https://skillicons.dev/icons?i=react,js,html,css" height="45" /><br><br>
-      <a href="https://github.com/El-SayedMohammed/Bridge-X-Graduation-Project"><b>🌉 Bridge X — Graduation Project</b></a><br><br>
+    <td align="center" width="50%" style="padding: 24px 18px;">
+      <a href="https://github.com/El-SayedMohammed/Bridge-X-Graduation-Project"><h3>🌉 Bridge X — Graduation Project</h3></a>
       <sub>Platform connecting companies with developers via real projects</sub><br><br>
-      <code>React</code> <code>JavaScript</code> <code>React Router</code> <code>JWT</code> <code>Vercel</code><br><br>
-      <a href="https://bridge-x-eight.vercel.app"><img src="https://img.shields.io/badge/🔗_Live_Demo-2ECC71?style=for-the-badge" height="26"/></a>
+      <img src="https://img.shields.io/badge/React-203a43?style=flat-square&logo=react&logoColor=00D4FF" height="22"/>
+      <img src="https://img.shields.io/badge/JavaScript-203a43?style=flat-square&logo=javascript&logoColor=00D4FF" height="22"/>
+      <img src="https://img.shields.io/badge/HTML5-203a43?style=flat-square&logo=html5&logoColor=00D4FF" height="22"/>
+      <img src="https://img.shields.io/badge/CSS3-203a43?style=flat-square&logo=css3&logoColor=00D4FF" height="22"/>
+      <img src="https://img.shields.io/badge/React_Router-203a43?style=flat-square&logo=reactrouter&logoColor=00D4FF" height="22"/>
+      <img src="https://img.shields.io/badge/JWT_Auth-203a43?style=flat-square&logo=jsonwebtokens&logoColor=00D4FF" height="22"/>
+      <img src="https://img.shields.io/badge/Vercel-203a43?style=flat-square&logo=vercel&logoColor=00D4FF" height="22"/><br><br>
+      <a href="https://bridge-x-eight.vercel.app"><img src="https://img.shields.io/badge/🔗_Live_Demo-00B4D8?style=for-the-badge&logoColor=white" height="26"/></a>
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding: 24px 15px;">
-      <img src="https://skillicons.dev/icons?i=react,js,vite" height="45" /><br><br>
-      <a href="https://github.com/El-SayedMohammed/Portfolio-Genie-DEPI-Project"><b>🧞 PortfolioGenie</b></a><br><br>
+    <td align="center" style="padding: 24px 18px;">
+      <a href="https://github.com/El-SayedMohammed/Portfolio-Genie-DEPI-Project"><h3>🧞 PortfolioGenie</h3></a>
       <sub>Builds a professional portfolio from GitHub data in 5 minutes</sub><br><br>
-      <code>React</code> <code>Vite</code> <code>Framer Motion</code> <code>GitHub API</code><br><br>
-      <a href="https://portfolio-liart-eta-59.vercel.app"><img src="https://img.shields.io/badge/🔗_Live_Demo-2ECC71?style=for-the-badge" height="26"/></a>
+      <img src="https://img.shields.io/badge/React-203a43?style=flat-square&logo=react&logoColor=00D4FF" height="22"/>
+      <img src="https://img.shields.io/badge/JavaScript-203a43?style=flat-square&logo=javascript&logoColor=00D4FF" height="22"/>
+      <img src="https://img.shields.io/badge/Vite-203a43?style=flat-square&logo=vite&logoColor=00D4FF" height="22"/>
+      <img src="https://img.shields.io/badge/Framer_Motion-203a43?style=flat-square&logo=framer&logoColor=00D4FF" height="22"/>
+      <img src="https://img.shields.io/badge/GitHub_API-203a43?style=flat-square&logo=github&logoColor=00D4FF" height="22"/>
+      <img src="https://img.shields.io/badge/LocalStorage-203a43?style=flat-square&logoColor=00D4FF" height="22"/><br><br>
+      <a href="https://portfolio-liart-eta-59.vercel.app"><img src="https://img.shields.io/badge/🔗_Live_Demo-00B4D8?style=for-the-badge&logoColor=white" height="26"/></a>
     </td>
-    <td align="center" style="padding: 24px 15px;">
-      <img src="https://skillicons.dev/icons?i=python,pytorch" height="45" /><br><br>
-      <a href="https://github.com/El-SayedMohammed/Student-Resume-Analyzer"><b>📄 Student Resume Analyzer</b></a><br><br>
+    <td align="center" style="padding: 24px 18px;">
+      <a href="https://github.com/El-SayedMohammed/Student-Resume-Analyzer"><h3>📄 Student Resume Analyzer</h3></a>
       <sub>Local-LLM resume evaluator with actionable feedback</sub><br><br>
-      <code>Python</code> <code>PyTorch</code> <code>HuggingFace</code> <code>Streamlit</code> <code>PyPDF2</code>
+      <img src="https://img.shields.io/badge/Python-203a43?style=flat-square&logo=python&logoColor=00D4FF" height="22"/>
+      <img src="https://img.shields.io/badge/PyTorch-203a43?style=flat-square&logo=pytorch&logoColor=00D4FF" height="22"/>
+      <img src="https://img.shields.io/badge/Hugging_Face-203a43?style=flat-square&logo=huggingface&logoColor=00D4FF" height="22"/>
+      <img src="https://img.shields.io/badge/Streamlit-203a43?style=flat-square&logo=streamlit&logoColor=00D4FF" height="22"/>
+      <img src="https://img.shields.io/badge/PyPDF2-203a43?style=flat-square&logoColor=00D4FF" height="22"/>
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding: 24px 15px;">
-      <img src="https://skillicons.dev/icons?i=python" height="45" /><br><br>
-      <a href="https://github.com/El-SayedMohammed/Ping-Pong-Game"><b>🏓 Ping Pong Game</b></a><br><br>
+    <td align="center" style="padding: 24px 18px;">
+      <a href="https://github.com/El-SayedMohammed/Ping-Pong-Game"><h3>🏓 Ping Pong Game</h3></a>
       <sub>Pygame classic game featuring an A* search AI opponent</sub><br><br>
-      <code>Python</code> <code>Pygame</code> <code>A* Search Algorithm</code>
+      <img src="https://img.shields.io/badge/Python-203a43?style=flat-square&logo=python&logoColor=00D4FF" height="22"/>
+      <img src="https://img.shields.io/badge/Pygame-203a43?style=flat-square&logoColor=00D4FF" height="22"/>
+      <img src="https://img.shields.io/badge/A*_Algorithm-203a43?style=flat-square&logoColor=00D4FF" height="22"/>
     </td>
-    <td align="center" style="padding: 24px 15px;">
-      <img src="https://skillicons.dev/icons?i=python,linux" height="45" /><br><br>
-      <a href="https://github.com/El-SayedMohammed/ROS-Obstacle-Avoidance-Robot"><b>🦾 ROS Obstacle Avoidance Robot</b></a><br><br>
+    <td align="center" style="padding: 24px 18px;">
+      <a href="https://github.com/El-SayedMohammed/ROS-Obstacle-Avoidance-Robot"><h3>🦾 ROS Obstacle Avoidance Robot</h3></a>
       <sub>Autonomous robot simulation using ROS and Gazebo physics</sub><br><br>
-      <code>Python</code> <code>Linux</code> <code>ROS</code> <code>Gazebo</code> <code>URDF</code>
+      <img src="https://img.shields.io/badge/Python-203a43?style=flat-square&logo=python&logoColor=00D4FF" height="22"/>
+      <img src="https://img.shields.io/badge/Linux-203a43?style=flat-square&logo=linux&logoColor=00D4FF" height="22"/>
+      <img src="https://img.shields.io/badge/ROS-203a43?style=flat-square&logo=ros&logoColor=00D4FF" height="22"/>
+      <img src="https://img.shields.io/badge/Gazebo-203a43?style=flat-square&logo=gazebo&logoColor=00D4FF" height="22"/>
+      <img src="https://img.shields.io/badge/URDF-203a43?style=flat-square&logoColor=00D4FF" height="22"/>
     </td>
   </tr>
 </table>
