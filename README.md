@@ -140,7 +140,7 @@ lab practice and real-world simulations.
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%" style="padding: 24px 18px;">
-      <a href="https://github.com/El-SayedMohammed/Adaptive-Programming-Tutor"><h3>🎓 Adaptive Programming Tutor</h3></a>
+      <h3><a href="https://github.com/El-SayedMohammed/Adaptive-Programming-Tutor">🎓 Adaptive Programming Tutor</a></h3>
       <sub>Fine-tuned LLM (Qwen2.5 + LoRA) providing Socratic debugging hints</sub><br><br>
       <img src="https://img.shields.io/badge/Python-203a43?style=flat-square&logo=python&logoColor=00D4FF" height="22"/>
       <img src="https://img.shields.io/badge/PyTorch-203a43?style=flat-square&logo=pytorch&logoColor=00D4FF" height="22"/>
@@ -151,32 +151,32 @@ lab practice and real-world simulations.
       <img src="https://img.shields.io/badge/Gradio-203a43?style=flat-square&logo=gradio&logoColor=00D4FF" height="22"/>
     </td>
     <td align="center" width="50%" style="padding: 24px 18px;">
-      <a href="https://github.com/El-SayedMohammed/Bridge-X-Graduation-Project"><h3>🌉 Bridge X — Graduation Project</h3></a>
+      <h3><a href="https://github.com/El-SayedMohammed/Bridge-X-Graduation-Project">🌉 Bridge X — Graduation Project</a></h3>
       <sub>Platform connecting companies with developers via real projects</sub><br><br>
+      <a href="https://bridge-x-eight.vercel.app"><img src="https://img.shields.io/badge/🚀_Live_Demo-1BA0D7?style=for-the-badge&logo=vercel&logoColor=white" height="26"/></a><br><br>
       <img src="https://img.shields.io/badge/React-203a43?style=flat-square&logo=react&logoColor=00D4FF" height="22"/>
       <img src="https://img.shields.io/badge/JavaScript-203a43?style=flat-square&logo=javascript&logoColor=00D4FF" height="22"/>
       <img src="https://img.shields.io/badge/HTML5-203a43?style=flat-square&logo=html5&logoColor=00D4FF" height="22"/>
       <img src="https://img.shields.io/badge/CSS3-203a43?style=flat-square&logo=css3&logoColor=00D4FF" height="22"/>
       <img src="https://img.shields.io/badge/React_Router-203a43?style=flat-square&logo=reactrouter&logoColor=00D4FF" height="22"/>
       <img src="https://img.shields.io/badge/JWT_Auth-203a43?style=flat-square&logo=jsonwebtokens&logoColor=00D4FF" height="22"/>
-      <img src="https://img.shields.io/badge/Vercel-203a43?style=flat-square&logo=vercel&logoColor=00D4FF" height="22"/><br><br>
-      <a href="https://bridge-x-eight.vercel.app"><img src="https://img.shields.io/badge/🔗_Live_Demo-00B4D8?style=for-the-badge&logoColor=white" height="26"/></a>
+      <img src="https://img.shields.io/badge/Vercel-203a43?style=flat-square&logo=vercel&logoColor=00D4FF" height="22"/>
     </td>
   </tr>
   <tr>
     <td align="center" style="padding: 24px 18px;">
-      <a href="https://github.com/El-SayedMohammed/Portfolio-Genie-DEPI-Project"><h3>🧞 PortfolioGenie</h3></a>
+      <h3><a href="https://github.com/El-SayedMohammed/Portfolio-Genie-DEPI-Project">🧞 PortfolioGenie</a></h3>
       <sub>Builds a professional portfolio from GitHub data in 5 minutes</sub><br><br>
+      <a href="https://portfolio-liart-eta-59.vercel.app"><img src="https://img.shields.io/badge/🚀_Live_Demo-1BA0D7?style=for-the-badge&logo=vercel&logoColor=white" height="26"/></a><br><br>
       <img src="https://img.shields.io/badge/React-203a43?style=flat-square&logo=react&logoColor=00D4FF" height="22"/>
       <img src="https://img.shields.io/badge/JavaScript-203a43?style=flat-square&logo=javascript&logoColor=00D4FF" height="22"/>
       <img src="https://img.shields.io/badge/Vite-203a43?style=flat-square&logo=vite&logoColor=00D4FF" height="22"/>
       <img src="https://img.shields.io/badge/Framer_Motion-203a43?style=flat-square&logo=framer&logoColor=00D4FF" height="22"/>
       <img src="https://img.shields.io/badge/GitHub_API-203a43?style=flat-square&logo=github&logoColor=00D4FF" height="22"/>
-      <img src="https://img.shields.io/badge/LocalStorage-203a43?style=flat-square&logoColor=00D4FF" height="22"/><br><br>
-      <a href="https://portfolio-liart-eta-59.vercel.app"><img src="https://img.shields.io/badge/🔗_Live_Demo-00B4D8?style=for-the-badge&logoColor=white" height="26"/></a>
+      <img src="https://img.shields.io/badge/LocalStorage-203a43?style=flat-square&logoColor=00D4FF" height="22"/>
     </td>
     <td align="center" style="padding: 24px 18px;">
-      <a href="https://github.com/El-SayedMohammed/Student-Resume-Analyzer"><h3>📄 Student Resume Analyzer</h3></a>
+      <h3><a href="https://github.com/El-SayedMohammed/Student-Resume-Analyzer">📄 Student Resume Analyzer</a></h3>
       <sub>Local-LLM resume evaluator with actionable feedback</sub><br><br>
       <img src="https://img.shields.io/badge/Python-203a43?style=flat-square&logo=python&logoColor=00D4FF" height="22"/>
       <img src="https://img.shields.io/badge/PyTorch-203a43?style=flat-square&logo=pytorch&logoColor=00D4FF" height="22"/>
@@ -187,14 +187,14 @@ lab practice and real-world simulations.
   </tr>
   <tr>
     <td align="center" style="padding: 24px 18px;">
-      <a href="https://github.com/El-SayedMohammed/Ping-Pong-Game"><h3>🏓 Ping Pong Game</h3></a>
+      <h3><a href="https://github.com/El-SayedMohammed/Ping-Pong-Game">🏓 Ping Pong Game</a></h3>
       <sub>Pygame classic game featuring an A* search AI opponent</sub><br><br>
       <img src="https://img.shields.io/badge/Python-203a43?style=flat-square&logo=python&logoColor=00D4FF" height="22"/>
       <img src="https://img.shields.io/badge/Pygame-203a43?style=flat-square&logoColor=00D4FF" height="22"/>
       <img src="https://img.shields.io/badge/A*_Algorithm-203a43?style=flat-square&logoColor=00D4FF" height="22"/>
     </td>
     <td align="center" style="padding: 24px 18px;">
-      <a href="https://github.com/El-SayedMohammed/ROS-Obstacle-Avoidance-Robot"><h3>🦾 ROS Obstacle Avoidance Robot</h3></a>
+      <h3><a href="https://github.com/El-SayedMohammed/ROS-Obstacle-Avoidance-Robot">🦾 ROS Obstacle Avoidance Robot</a></h3>
       <sub>Autonomous robot simulation using ROS and Gazebo physics</sub><br><br>
       <img src="https://img.shields.io/badge/Python-203a43?style=flat-square&logo=python&logoColor=00D4FF" height="22"/>
       <img src="https://img.shields.io/badge/Linux-203a43?style=flat-square&logo=linux&logoColor=00D4FF" height="22"/>
