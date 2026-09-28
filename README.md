@@ -8,20 +8,32 @@
 
 ### 🌐 Network Engineer | Trainee @ Instant Software Solutions | CCNA | CCNP | Firewall (Fortigate) | VMware | Azure | MCSA
 
-<p>
-  <a href="https://www.linkedin.com/in/elsayed-mohamed-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:elsayedmohamed01065813602@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/El-SayedMohammed">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/share/1DeqWgWD2r/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="110">
+      <a href="https://www.linkedin.com/in/elsayed-mohamed-dev">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" />
+      </a><br><sub><b>LinkedIn</b></sub>
+    </td>
+    <td align="center" width="110">
+      <a href="mailto:elsayedmohamed01065813602@gmail.com">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="50" height="50" />
+      </a><br><sub><b>Email</b></sub>
+    </td>
+    <td align="center" width="110">
+      <a href="https://github.com/El-SayedMohammed">
+        <img src="https://cdn.simpleicons.org/github/white" width="50" height="50" />
+      </a><br><sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="110">
+      <a href="https://www.facebook.com/share/1DeqWgWD2r/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="50" height="50" />
+      </a><br><sub><b>Facebook</b></sub>
+    </td>
+  </tr>
+</table>
+</div>
 
 </div>
 
@@ -78,8 +90,7 @@ lab practice and real-world simulations.
     <td align="center"><img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="50" height="50" /><br><sub><b>Packet Tracer</b></sub></td>
     <td align="center"><img src="https://img.shields.io/badge/GNS3-F5A623?style=for-the-badge" height="50" /><br><sub><b>GNS3</b></sub></td>
     <td align="center"><img src="https://cdn.simpleicons.org/wireshark/1679A7" width="50" height="50" /><br><sub><b>Wireshark</b></sub></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center" colspan="2"></td>
   </tr>
 </table>
 </div>
@@ -115,10 +126,7 @@ lab practice and real-world simulations.
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" /><br><sub><b>VS Code</b></sub></td>
     <td align="center"><img src="https://cdn.simpleicons.org/vercel/white" width="50" height="50" /><br><sub><b>Vercel</b></sub></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center" colspan="4"></td>
   </tr>
 </table>
 </div>
@@ -162,7 +170,7 @@ lab practice and real-world simulations.
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=python,linux" width="90" /><br>
-      <a href="https://github.com/El-SayedMohammed/Robot"><b>🦾 Robot</b></a><br>
+      <a href="https://github.com/El-SayedMohammed/ROS-Obstacle-Avoidance-Robot"><b>🦾 ROS Obstacle Avoidance Robot</b></a><br>
       <sub>ROS + Gazebo obstacle-avoidance simulation</sub>
     </td>
   </tr>
