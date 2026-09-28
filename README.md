@@ -6,9 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=850&height=45&lines=Hi%2C+I'm+Elsayed+Mohamed+%F0%9F%91%8B;Network+Engineer+%7C+Trainee+%40+Instant+Software+Solutions;CCNA+%7C+CCNP+%7C+Firewall+%7C+VMware+%7C+Azure+%7C+MCSA;Building+secure%2C+reliable+network+infrastructures" alt="Typing SVG" />
 </a>
 
-### 🌐 Network Engineer | Trainee @ Instant Software Solutions | CCNA | CCNP | Firewall (Fortigate) | VMware | Azure | MCSA
+<h3 align="center">🌐 Network Engineer | Trainee @ Instant Software Solutions | CCNA | CCNP | Firewall (Fortigate) | VMware | Azure | MCSA</h3>
 
-<div align="center">
 <table>
   <tr>
     <td align="center" width="110">
@@ -33,7 +32,6 @@
     </td>
   </tr>
 </table>
-</div>
 
 </div>
 
@@ -65,9 +63,10 @@ lab practice and real-world simulations.
 
 ## 🧰 Tech Toolbox
 
+<div align="center">
+
 ### 🌐 Networking & Infrastructure
 
-<div align="center">
 <table> 
   <tr>
     <td align="center" width="110"><img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="50" /><br><sub><b>CCNA</b></sub></td>
@@ -93,11 +92,9 @@ lab practice and real-world simulations.
     <td align="center" colspan="2"></td>
   </tr>
 </table>
-</div>
 
 ### 💻 Development
 
-<div align="center">
 <table> 
   <tr>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" /><br><sub><b>HTML5</b></sub></td>
@@ -129,6 +126,7 @@ lab practice and real-world simulations.
     <td align="center" colspan="4"></td>
   </tr>
 </table>
+
 </div>
 
 ---
