@@ -70,25 +70,25 @@ lab practice and real-world simulations.
 <div align="center">
 <table> 
   <tr>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="50" height="50" /><br><sub><b>CCNA</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="50" height="50" /><br><sub><b>CCNP</b></sub></td>
-    <td align="center" width="110"><img src="https://img.icons8.com/color/50/network.png" width="50" height="50" /><br><sub><b>BGP</b></sub></td>
-    <td align="center" width="110"><img src="https://img.icons8.com/color/50/route.png" width="50" height="50" /><br><sub><b>MPLS</b></sub></td>
-    <td align="center" width="110"><img src="https://img.icons8.com/color/50/router.png" width="50" height="50" /><br><sub><b>OSPF</b></sub></td>
-    <td align="center" width="110"><img src="https://img.icons8.com/color/50/virtual-machine.png" width="50" height="50" /><br><sub><b>VLANs</b></sub></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="50" /><br><sub><b>CCNA</b></sub></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/CCNP-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="50" /><br><sub><b>CCNP</b></sub></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/BGP-0F4C81?style=for-the-badge" height="50" /><br><sub><b>BGP</b></sub></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/MPLS-0F4C81?style=for-the-badge" height="50" /><br><sub><b>MPLS</b></sub></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/OSPF-1B6CA8?style=for-the-badge" height="50" /><br><sub><b>OSPF</b></sub></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/VLANs-1B6CA8?style=for-the-badge" height="50" /><br><sub><b>VLANs</b></sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.icons8.com/color/50/network-card.png" width="50" height="50" /><br><sub><b>STP</b></sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/STP-2E86AB?style=for-the-badge" height="50" /><br><sub><b>STP</b></sub></td>
     <td align="center"><img src="https://cdn.simpleicons.org/fortinet/EE3124" width="50" height="50" /><br><sub><b>FortiGate</b></sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" /><br><sub><b>Windows Server</b></sub></td>
-    <td align="center"><img src="https://img.icons8.com/color/50/microsoft.png" width="50" height="50" /><br><sub><b>MCSA</b></sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/MCSA-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="50" /><br><sub><b>MCSA</b></sub></td>
     <td align="center"><img src="https://cdn.simpleicons.org/vmware/607078" width="50" height="50" /><br><sub><b>VMware ESXi</b></sub></td>
     <td align="center"><img src="https://cdn.simpleicons.org/vmware/607078" width="50" height="50" /><br><sub><b>vSphere</b></sub></td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50" /><br><sub><b>Azure</b></sub></td>
     <td align="center"><img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="50" height="50" /><br><sub><b>Packet Tracer</b></sub></td>
-    <td align="center"><img src="https://img.icons8.com/color/50/network.png" width="50" height="50" /><br><sub><b>GNS3</b></sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/GNS3-2E86AB?style=for-the-badge" height="50" /><br><sub><b>GNS3</b></sub></td>
     <td align="center"><img src="https://cdn.simpleicons.org/wireshark/1679A7" width="50" height="50" /><br><sub><b>Wireshark</b></sub></td>
     <td align="center" colspan="2"></td>
   </tr>
@@ -135,15 +135,15 @@ lab practice and real-world simulations.
 
 ## 🛠️ Featured Projects
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://skillicons.dev/icons?i=python" width="45" /><br>
+      <img src="https://skillicons.dev/icons?i=python,pytorch" height="45" /><br><br>
       <a href="https://github.com/El-SayedMohammed/Adaptive-Programming-Tutor"><b>🎓 Adaptive Programming Tutor</b></a><br>
       <sub>Fine-tuned LLM (Qwen2.5 + LoRA) that gives Socratic debugging hints</sub>
     </td>
     <td align="center" width="50%">
-      <img src="https://skillicons.dev/icons?i=react,js" width="90" /><br>
+      <img src="https://skillicons.dev/icons?i=react,js,html,css" height="45" /><br><br>
       <a href="https://github.com/El-SayedMohammed/Bridge-X-Graduation-Project"><b>🌉 Bridge X — Graduation Project</b></a><br>
       <sub>Platform connecting companies with developers via real projects</sub><br>
       <a href="https://bridge-x-eight.vercel.app">🔗 Live Demo</a>
@@ -151,25 +151,25 @@ lab practice and real-world simulations.
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,js" width="90" /><br>
+      <img src="https://skillicons.dev/icons?i=react,js,vite" height="45" /><br><br>
       <a href="https://github.com/El-SayedMohammed/Portfolio-Genie-DEPI-Project"><b>🧞 PortfolioGenie</b></a><br>
       <sub>Builds a professional portfolio from GitHub data in 5 minutes</sub><br>
       <a href="https://portfolio-liart-eta-59.vercel.app">🔗 Live Demo</a>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=python" width="45" /><br>
+      <img src="https://skillicons.dev/icons?i=python,pytorch" height="45" /><br><br>
       <a href="https://github.com/El-SayedMohammed/Student-Resume-Analyzer"><b>📄 Student Resume Analyzer</b></a><br>
       <sub>Local-LLM resume evaluator with actionable feedback</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=python" width="45" /><br>
+      <img src="https://skillicons.dev/icons?i=python" height="45" /><br><br>
       <a href="https://github.com/El-SayedMohammed/Ping-Pong-Game"><b>🏓 Ping Pong Game</b></a><br>
       <sub>Pygame game with an A* search AI opponent</sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,linux" width="90" /><br>
+      <img src="https://skillicons.dev/icons?i=python,linux" height="45" /><br><br>
       <a href="https://github.com/El-SayedMohammed/ROS-Obstacle-Avoidance-Robot"><b>🦾 ROS Obstacle Avoidance Robot</b></a><br>
       <sub>ROS + Gazebo obstacle-avoidance simulation</sub>
     </td>
@@ -178,11 +178,42 @@ lab practice and real-world simulations.
 
 ---
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/El-SayedMohammed/El-SayedMohammed/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/El-SayedMohammed/El-SayedMohammed/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation eating my GitHub contribution graph" src="https://raw.githubusercontent.com/El-SayedMohammed/El-SayedMohammed/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 ## 📫 Reach Me
 
-- LinkedIn: [www.linkedin.com/in/elsayed-mohamed-dev](https://www.linkedin.com/in/elsayed-mohamed-dev)
-- Email: elsayedmohamed01065813602@gmail.com
-- Facebook: [Elsayed Mohamed](https://www.facebook.com/share/1DeqWgWD2r/)
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://www.linkedin.com/in/elsayed-mohamed-dev">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" />
+      </a><br><sub><b>LinkedIn</b></sub><br>
+      <sub><a href="https://www.linkedin.com/in/elsayed-mohamed-dev">elsayed-mohamed-dev</a></sub>
+    </td>
+    <td align="center" width="140">
+      <a href="mailto:elsayedmohamed01065813602@gmail.com">
+        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" />
+      </a><br><sub><b>Email</b></sub><br>
+      <sub>elsayedmohamed01065813602@gmail.com</sub>
+    </td>
+    <td align="center" width="140">
+      <a href="https://www.facebook.com/share/1DeqWgWD2r/">
+        <img src="https://cdn.simpleicons.org/facebook/1877F2" width="45" height="45" />
+      </a><br><sub><b>Facebook</b></sub><br>
+      <sub>Elsayed Mohamed</sub>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
