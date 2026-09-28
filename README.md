@@ -53,6 +53,12 @@ lab practice and real-world simulations.
 
 ## 🧰 Tech Toolbox
 
+### 🌐 Networking & Infrastructure
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/El-SayedMohammed/El-SayedMohammed/main/network-skills.svg" alt="Network Engineering Toolkit" width="100%" />
+</p>
+
 ### 💻 Development
 
 <div align="center">
