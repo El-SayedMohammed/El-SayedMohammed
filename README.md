@@ -48,49 +48,9 @@ lab practice and real-world simulations.
 
 ### 🌐 Networking & Infrastructure
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="50" height="50" /><br><sub><b>Cisco</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/fortinet/EE3124" width="50" height="50" /><br><sub><b>FortiGate</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/vmware/607078" width="50" height="50" /><br><sub><b>VMware</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50" /><br><sub><b>Azure</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" /><br><sub><b>Windows Server</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/wireshark/1679A7" width="50" height="50" /><br><sub><b>Wireshark</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" /><br><sub><b>Linux</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" /><br><sub><b>Bash</b></sub></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-</table>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/CCNP-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCSA-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firewall_Administration-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
-  <img src="https://img.shields.io/badge/VMware_ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-  <img src="https://img.shields.io/badge/vSphere-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/El-SayedMohammed/El-SayedMohammed/main/network-skills.svg" alt="Network Engineering Toolkit" width="100%" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/BGP-2C5364?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MPLS-2C5364?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OSPF-2C5364?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/VLANs-2C5364?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/STP-2C5364?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/GNS3-0A0A0A?style=for-the-badge&logo=gnometerminal&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-</p>
-</div>
 
 ### 💻 Development
 
@@ -164,4 +124,29 @@ lab practice and real-world simulations.
     <td align="center">
       <img src="https://skillicons.dev/icons?i=python" width="45" /><br>
       <a href="https://github.com/El-SayedMohammed/Ping-Pong-Game"><b>🏓 Ping-Pong-Game</b></a><br>
-      <sub>Pygame game with
+      <sub>Pygame game with an A* search AI opponent</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,linux" width="90" /><br>
+      <a href="https://github.com/El-SayedMohammed/Robot"><b>🦾 Robot</b></a><br>
+      <sub>ROS + Gazebo obstacle-avoidance simulation</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📫 Reach Me
+
+- LinkedIn: [www.linkedin.com/in/elsayed-mohamed-dev](https://www.linkedin.com/in/elsayed-mohamed-dev)
+- Email: elsayedmohamed01065813602@gmail.com
+
+---
+
+<div align="center">
+
+💡 *Passionate about building secure, reliable network infrastructures.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+
+</div>
