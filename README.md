@@ -9,12 +9,19 @@
 ### 🌐 Network Engineer | Trainee @ Instant Software Solutions | CCNA | CCNP | Firewall (Fortigate) | VMware | Azure | MCSA
 
 <p>
-  <a href="https://www.linkedin.com/in/elsayed-mohamed-dev"><img src="https://img.shields.io/badge/LinkedIn-Elsayed%20Mohamed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:elsayedmohamed01065813602@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/El-SayedMohammed"><img src="https://img.shields.io/badge/GitHub-El--SayedMohammed-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/elsayed-mohamed-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:elsayedmohamed01065813602@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/El-SayedMohammed">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/share/1DeqWgWD2r/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=El-SayedMohammed&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views" />
 
 </div>
 
@@ -45,12 +52,6 @@ lab practice and real-world simulations.
 ---
 
 ## 🧰 Tech Toolbox
-
-### 🌐 Networking & Infrastructure
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/El-SayedMohammed/El-SayedMohammed/main/network-skills.svg" alt="Network Engineering Toolkit" width="100%" />
-</p>
 
 ### 💻 Development
 
@@ -99,31 +100,33 @@ lab practice and real-world simulations.
   <tr>
     <td align="center" width="50%">
       <img src="https://skillicons.dev/icons?i=python" width="45" /><br>
-      <a href="https://github.com/El-SayedMohammed/Adaptive-Programming-Tutor"><b>🎓 Adaptive-Programming-Tutor</b></a><br>
+      <a href="https://github.com/El-SayedMohammed/Adaptive-Programming-Tutor"><b>🎓 Adaptive Programming Tutor</b></a><br>
       <sub>Fine-tuned LLM (Qwen2.5 + LoRA) that gives Socratic debugging hints</sub>
     </td>
     <td align="center" width="50%">
       <img src="https://skillicons.dev/icons?i=react,js" width="90" /><br>
-      <a href="https://github.com/El-SayedMohammed/Bridge-X-Graduation-Project"><b>🌉 Bridge-X-Graduation-Project</b></a><br>
-      <sub>Platform connecting companies with developers via real projects</sub>
+      <a href="https://github.com/El-SayedMohammed/Bridge-X-Graduation-Project"><b>🌉 Bridge X — Graduation Project</b></a><br>
+      <sub>Platform connecting companies with developers via real projects</sub><br>
+      <a href="https://bridge-x-eight.vercel.app">🔗 Live Demo</a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=react,js" width="90" /><br>
-      <a href="https://github.com/El-SayedMohammed/Portfolio-Genie-DEPI-Project"><b>🧞 Portfolio-Genie-DEPI-Project</b></a><br>
-      <sub>Builds a professional portfolio from GitHub data in 5 minutes</sub>
+      <a href="https://github.com/El-SayedMohammed/Portfolio-Genie-DEPI-Project"><b>🧞 PortfolioGenie</b></a><br>
+      <sub>Builds a professional portfolio from GitHub data in 5 minutes</sub><br>
+      <a href="https://portfolio-liart-eta-59.vercel.app">🔗 Live Demo</a>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=python" width="45" /><br>
-      <a href="https://github.com/El-SayedMohammed/Student-Resume-Analyzer"><b>📄 Student-Resume-Analyzer</b></a><br>
+      <a href="https://github.com/El-SayedMohammed/Student-Resume-Analyzer"><b>📄 Student Resume Analyzer</b></a><br>
       <sub>Local-LLM resume evaluator with actionable feedback</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=python" width="45" /><br>
-      <a href="https://github.com/El-SayedMohammed/Ping-Pong-Game"><b>🏓 Ping-Pong-Game</b></a><br>
+      <a href="https://github.com/El-SayedMohammed/Ping-Pong-Game"><b>🏓 Ping Pong Game</b></a><br>
       <sub>Pygame game with an A* search AI opponent</sub>
     </td>
     <td align="center">
@@ -140,6 +143,7 @@ lab practice and real-world simulations.
 
 - LinkedIn: [www.linkedin.com/in/elsayed-mohamed-dev](https://www.linkedin.com/in/elsayed-mohamed-dev)
 - Email: elsayedmohamed01065813602@gmail.com
+- Facebook: [Elsayed Mohamed](https://www.facebook.com/share/1DeqWgWD2r/)
 
 ---
 
