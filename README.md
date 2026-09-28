@@ -55,7 +55,7 @@ lab practice and real-world simulations.
 ### 💻 Development
 
 <div align="center">
-<table>
+<table> 
   <tr>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" /><br><sub><b>HTML5</b></sub></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" /><br><sub><b>CSS3</b></sub></td>
