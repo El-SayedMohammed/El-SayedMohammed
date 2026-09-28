@@ -59,14 +59,37 @@ lab practice and real-world simulations.
     <td align="center" width="110"><img src="https://cdn.simpleicons.org/wireshark/1679A7" width="50" height="50" /><br><sub><b>Wireshark</b></sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/CCNA-In_Progress-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="28" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="28" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/GNS3-0A0A0A?style=for-the-badge&logo=gnometerminal&logoColor=white" height="28" /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" /><br><sub><b>Linux</b></sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" /><br><sub><b>Bash</b></sub></td>
     <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/CCNP-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCSA-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firewall_Administration-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/VMware_ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/vSphere-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BGP-2C5364?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MPLS-2C5364?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OSPF-2C5364?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VLANs-2C5364?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STP-2C5364?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/GNS3-0A0A0A?style=for-the-badge&logo=gnometerminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+</p>
 </div>
 
 ### 💻 Development
@@ -141,42 +164,4 @@ lab practice and real-world simulations.
     <td align="center">
       <img src="https://skillicons.dev/icons?i=python" width="45" /><br>
       <a href="https://github.com/El-SayedMohammed/Ping-Pong-Game"><b>🏓 Ping-Pong-Game</b></a><br>
-      <sub>Pygame game with an A* search AI opponent</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,linux" width="90" /><br>
-      <a href="https://github.com/El-SayedMohammed/Robot"><b>🦾 Robot</b></a><br>
-      <sub>ROS + Gazebo obstacle-avoidance simulation</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=El-SayedMohammed&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=El-SayedMohammed&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=El-SayedMohammed&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-</p>
-
----
-
-## 📫 Reach Me
-
-- LinkedIn: [www.linkedin.com/in/elsayed-mohamed-dev](https://www.linkedin.com/in/elsayed-mohamed-dev)
-- Email: elsayedmohamed01065813602@gmail.com
-
----
-
-<div align="center">
-
-💡 *Passionate about building secure, reliable network infrastructures.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
-
-</div>
+      <sub>Pygame game with
