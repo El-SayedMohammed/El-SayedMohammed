@@ -142,7 +142,7 @@ lab practice and real-world simulations.
     <td align="center" width="50%" style="padding: 24px 18px;">
       <h3><a href="https://github.com/El-SayedMohammed/Portfolio-Genie-DEPI-Project">🧞 PortfolioGenie</a></h3>
       <sub>Builds a professional portfolio from GitHub data in 5 minutes</sub><br><br>
-      <a href="https://portfolio-liart-eta-59.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-⚡_Visit_Site-00D4FF?style=flat-square&logo=vercel&logoColor=00D4FF&labelColor=101f27" height="24"/></a><br><br>
+      <a href="https://portfolio-liart-eta-59.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-203a43?style=flat-square&logo=vercel&logoColor=00D4FF" height="22"/></a><br><br>
       <a href="#-"><img src="https://img.shields.io/badge/React-203a43?style=flat-square&logo=react&logoColor=00D4FF" height="22"/></a>
       <a href="#-"><img src="https://img.shields.io/badge/JavaScript-203a43?style=flat-square&logo=javascript&logoColor=00D4FF" height="22"/></a>
       <a href="#-"><img src="https://img.shields.io/badge/Vite-203a43?style=flat-square&logo=vite&logoColor=00D4FF" height="22"/></a>
@@ -153,7 +153,7 @@ lab practice and real-world simulations.
     <td align="center" width="50%" style="padding: 24px 18px;">
       <h3><a href="https://github.com/El-SayedMohammed/Bridge-X-Graduation-Project">🌉 Bridge X — Graduation Project</a></h3>
       <sub>Platform connecting companies with developers via real projects</sub><br><br>
-      <a href="https://bridge-x-eight.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-⚡_Visit_Site-00D4FF?style=flat-square&logo=vercel&logoColor=00D4FF&labelColor=101f27" height="24"/></a><br><br>
+      <a href="https://bridge-x-eight.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-203a43?style=flat-square&logo=vercel&logoColor=00D4FF" height="22"/></a><br><br>
       <a href="#-"><img src="https://img.shields.io/badge/React-203a43?style=flat-square&logo=react&logoColor=00D4FF" height="22"/></a>
       <a href="#-"><img src="https://img.shields.io/badge/JavaScript-203a43?style=flat-square&logo=javascript&logoColor=00D4FF" height="22"/></a>
       <a href="#-"><img src="https://img.shields.io/badge/HTML5-203a43?style=flat-square&logo=html5&logoColor=00D4FF" height="22"/></a>
@@ -212,17 +212,22 @@ lab practice and real-world simulations.
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="140">
+    <td align="center" width="120">
       <a href="https://www.linkedin.com/in/elsayed-mohamed-dev">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" />
       </a><br><sub><b>LinkedIn</b></sub>
     </td>
-    <td align="center" width="140">
+    <td align="center" width="120">
       <a href="mailto:elsayedmohamed01065813602@gmail.com">
         <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" />
       </a><br><sub><b>Email</b></sub>
     </td>
-    <td align="center" width="140">
+    <td align="center" width="120">
+      <a href="https://github.com/El-SayedMohammed">
+        <img src="https://cdn.simpleicons.org/github/white" width="45" height="45" />
+      </a><br><sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="120">
       <a href="https://www.facebook.com/share/1DeqWgWD2r/">
         <img src="https://cdn.simpleicons.org/facebook/1877F2" width="45" height="45" />
       </a><br><sub><b>Facebook</b></sub>
